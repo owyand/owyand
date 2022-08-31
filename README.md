@@ -1,4 +1,4 @@
-I am working currently creating projects and studying for a Java certification.
+I am currently creating projects and studying for a Java certification.
 
 <!---
 owyand/owyand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
