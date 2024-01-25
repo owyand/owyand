@@ -1,13 +1,7 @@
-I am a certified Java 8 programmer (Oracle Programmer I)
-I am certified in SQL and have used SQLite and SQLServer
-I have experience in web development using HTML, CSS, and JavaScript
+I am a C# web developer currently in an internship!
+I love bringing ideas to life, creating something new, and helping people through technology.
 
-I am currently learning C# and ASP.Net for an internship
-
-I am eager to build systems and solve large problems using my development skills
-
-I use GitHub and Azure DevOps
-
+This is where i work on my personal projects. Once a project is completed it is made public :)
 <!---
 owyand/owyand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
